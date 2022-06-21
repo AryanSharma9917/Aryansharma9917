@@ -2,5 +2,5 @@
 
 
 
-- 📫 How to reach me: ... linkedin.com/in/aryan-sharma-9154641bb/
+- 📫 How to reach me: ... [Linkedin Profile](linkedin.com/in/aryan-sharma-9154641bb/)
 
