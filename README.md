@@ -2,4 +2,4 @@
 
 
 
-- 📫 Linkedin Profile : ... [linkedin.com/in/aryansharma9917/]
+- 📫 Linkedin Profile : ... [Click here...](linkedin.com/in/aryansharma9917/)
