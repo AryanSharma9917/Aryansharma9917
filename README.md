@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/Aryansharma9917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aryansharma9917" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/Aryansharma9917/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavya-sachdeva9/" height="30" width="40" /></a>
-
 <a href="https://hashnode.com/@AryanSharma9917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bhavyastar" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
