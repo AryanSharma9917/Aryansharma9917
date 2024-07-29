@@ -58,7 +58,7 @@ CONST ARYAN = {
   tools: ["VS Code", "Postman", "Slack"],
   database: ["PostgreSQL", "MySQL"],
   versionControl: ["Git", "GitHub", "GitLab"],
-  openSource: ["Kubernetes", "CNCF", "Unify (AI)"]
+  opensource: ["Kubernetes", "CNCF", "Unify (AI)"]
 }
 ```
 
