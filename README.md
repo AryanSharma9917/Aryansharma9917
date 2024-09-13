@@ -11,7 +11,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a DevOps Engineer from <b>India</b> 」
+                「 I'm a Software Engineer and a DevOps enthusiast from <b>India</b> 」
                 <br>
                 「 Focused on building innovative solutions and contributing to open-source projects 」
                 <br>
