@@ -39,6 +39,12 @@
         <br>
         <!-- Badges Section -->
         <h3>🎖️ Badges:</h3>
+<!-- ![github-foundations](https://github.com/user-attachments/assets/91fd9d31-a55b-4194-b621-b9f592071d86) -->
+
+        <a href="https://www.credly.com/badges/93dee560-09ae-4d47-970d-868ee7f6ea4a/public_url">
+            <img src="https://github.com/user-attachments/assets/91fd9d31-a55b-4194-b621-b9f592071d86" alt="GitHub Foundations Badge" width="150">
+        </a>
+
         <a href="https://meshery.layer5.io/user/ba26ab2b-4cf1-49a9-af46-aba2b1e7d112?tab=badges">
             <img width="224px" height="224px" src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.svg" alt="Continuous Contributor" />
         </a>
