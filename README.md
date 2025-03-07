@@ -34,9 +34,9 @@
         <img alt="Aryan's GitHub Stats"
              src="https://github-readme-stats.vercel.app/api?username=aryansharma9917&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
         <br>
-        <img alt="Aryan's GitHub Streak"
+<!--         <img alt="Aryan's GitHub Streak"
              src="https://github-readme-streak-stats.herokuapp.com/?user=aryansharma9917&theme=dark&hide_border=true" />
-        <br>
+        <br> -->
         <!-- Badges Section -->
         <h3>🎖️ Badges:</h3>
         <!-- GitHub Foundations Badge -->
