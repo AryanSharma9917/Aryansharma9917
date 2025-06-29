@@ -76,7 +76,7 @@ CONST ARYAN = {
         <samp>
                 「 Let's connect and discuss how we can collaborate on exciting projects! 」
                 <br>
-                <a href="https://aryandev.me"><img src="https://img.shields.io/badge/Portfolio-aryandev.me-blue?logo=firefox" alt="Portfolio"></a>
+                <a href="https://aryansharma9917.github.io/"><img src="https://img.shields.io/badge/Portfolio-aryandev.me-blue?logo=firefox" alt="Portfolio"></a>
                 <br>
         </samp>
 </p>
