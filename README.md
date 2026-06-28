@@ -46,6 +46,10 @@ CONST ARYAN = {
 ```
 
 <p align="center">
+    <a href="https://learn.microsoft.com/api/credentials/share/en-us/SharmaAryan-0680/C2A0E3666F86DA24?sharingId=98CBAEB9BCDFA1A">
+        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Microsoft Certified: Azure Administrator Associate Badge" width="150">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.credly.com/badges/93dee560-09ae-4d47-970d-868ee7f6ea4a/public_url">
         <img src="https://raw.githubusercontent.com/AryanSharma9917/Aryansharma9917/main/github-foundations.png" alt="GitHub Foundations Badge" width="150">
     </a>
